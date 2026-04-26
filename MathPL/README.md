@@ -23,3 +23,43 @@ python src/mathpl.py
 
 # Запустить пример
 python src/mathpl.py examples/hello.mpl
+```
+
+## Пример кода
+
+```
+task#
+    base = a, b, c
+    a = 25
+    b = 27
+    c = a + b = (say "Сумма")
+close
+```
+
+## Движение игрока
+
+```
+task#
+    base = objp = "Player" and function and moveLiB
+    launch centre = 3D
+    request access keyboard = keys WASD
+    key W = function to forward else to (0:1:0)
+    key A = function to left else to (-1:0:0)
+    key S = function to back else to (0:-1:0)
+    key D = function to right else to (1:0:0)
+    wait = access keys
+    if work function = start function()
+    if unwork function = error-mode
+    start function()
+close
+```
+
+## Документация
+
+- [Синтаксис](docs/SYNTAX.md)
+- [Учебник](docs/TUTORIAL.md)
+- [Ключевые слова](docs/KEYWORDS.md)
+
+## Лицензия
+
+MIT License
