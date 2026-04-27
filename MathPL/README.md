@@ -62,7 +62,7 @@ close
 
 ## Лицензия
 
-MIT License
+MIT License (LICENSE)
 
 ## Внимание!
 
