@@ -64,7 +64,7 @@ close
 
 MIT License
 
-##Внимвние
+## Внимание!
 
 > ⚠️ **Ранний доступ (Early Access)**
 > 
