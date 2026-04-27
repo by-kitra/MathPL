@@ -62,7 +62,7 @@ close
 
 ## Лицензия
 
-[MIT License] (LICENSE)
+- [MIT License](MathPL/LICENSE)
 
 ## Внимание!
 
